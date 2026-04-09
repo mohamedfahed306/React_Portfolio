@@ -24,7 +24,7 @@
 }
 .nav-links a::before{
     content: ' ';
-    background-color: #fff;
+    background-color: teal;
     position: absolute;
     bottom: -10px;
     width: 0;
