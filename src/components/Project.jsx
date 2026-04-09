@@ -7,7 +7,7 @@ const Project = () => {
       <div className="project-container">
         <div className="project-card">
           <div className="project-img">
-            <img src="fahed-dp.jpg" alt="" />
+            <img src="" alt="" />
           </div>
           <div className="project-title">
             <h3>Project title</h3></div>
