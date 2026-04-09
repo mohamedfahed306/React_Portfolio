@@ -10,7 +10,7 @@
 }
 .project-container{
     width: 300px;
-    height: 308px;
+    height: auto;
     background-color: burlywood;
     padding: 10px;
     border-radius: 10px;
