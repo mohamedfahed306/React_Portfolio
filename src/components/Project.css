@@ -1,7 +1,7 @@
 .project{
     padding: 100px 50px ;
     height: 100vh;
-
+    
 }
 .project h1{
     text-align: center;
@@ -15,6 +15,16 @@
     padding: 10px;
     border-radius: 10px;
     overflow: hidden;
+    transition: .4s ease-in-out;
+}
+.project-cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.project-container:hover{
+    transform: scale(1.03) translateY(-1px);
 }
 
 .project-img img{
