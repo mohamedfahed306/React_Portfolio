@@ -39,6 +39,14 @@
 .nav-icons{
     cursor: pointer;
 }
+.nav-icons i{
+    transition: .5s linear;
+    
+}
+.nav-icons i:hover{
+    color: aqua;
+    transform: rotate(-90deg);
+}
 .nav-icons .active{
     display: none;
 
