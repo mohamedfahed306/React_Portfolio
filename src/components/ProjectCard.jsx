@@ -1,26 +1,26 @@
 const cardDetails = [
     {
-        image :"fahed-dp.jpg",
+        image :"shanks1.jpg",
         title:"Portfolio",
         skills:["HTML","CSS","JavaScript","React"],
     },
     {
-        image :"fahed-dp.jpg",
+        image :"shanks1.jpg",
         title:"Portfolio",
         skills:["HTML","CSS","JavaScript","React"],
     },
     {
-        image :"fahed-dp.jpg",
+        image :"shanks1.jpg",
         title:"Portfolio",
         skills:["HTML","CSS","JavaScript","React"],
     },
     {
-        image :"fahed-dp.jpg",
+        image :"shanks1.jpg",
         title:"Portfolio",
         skills:["HTML","CSS","JavaScript","React"],
     },
     {
-        image :"fahed-dp.jpg",
+        image :"shanks1.jpg",
         title:"Portfolio",
         skills:["HTML","CSS","JavaScript","React"],
     },
